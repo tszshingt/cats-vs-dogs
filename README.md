@@ -4,7 +4,7 @@
 ### File Descriptions
 - **CAP4630_FinalProject_Summer2019.pdf**: Project details and scopes  
 - **FinalProject_Report_Tsoi.pdf**: Final project report  
-- **final_project_starter_cap4630.m**: MATLAB codes for Procedures 1 to 10 of the project, modified from the start code provided by professor  
+- **final_project_starter_cap4630.m**: MATLAB codes for Procedures 1 to 10 of the project, modified from the starter code provided by professor  
 - **final_project_final_solution_cap4630.m**: MATLAB codes for Procedures 11 to 15 of the project  
 - **readAndPreprocessImage.m**: MATLAB codes for function `readAndPreprocessImage()` provided by professor  
 - **imageLabelTestSetGroundTruth.csv**: Manual labels of Kaggle challenge test dataset. The first column is file name and the second column is label  
