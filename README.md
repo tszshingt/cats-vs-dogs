@@ -2,13 +2,15 @@
 ## Cats vs. Dogs
 
 ### File Descriptions
-**CAP4630_FinalProject_Summer2019.pdf**: Project details and scopes  
-**FinalProject_Report_Tsoi.pdf**: Final project report  
-**final_project_starter_cap4630.m**: MATLAB codes for Procedures 1 to 10 of the project, modified from the start code provided by professor  
-**final_project_final_solution_cap4630.m**: MATLAB codes for Procedures 11 to 15 of the project  
-**readAndPreprocessImage.m**: MATLAB codes for function `readAndPreprocessImage()` provided by professor  
-**imageLabelTestSetGroundTruth.csv**: Manual labels of Kaggle challenge test dataset. The first column is file name and the second column is label  
-**sample cats vs dogs data.zip**: Sample training data provided by professor  
+- **CAP4630_FinalProject_Summer2019.pdf**: Project details and scopes  
+- **FinalProject_Report_Tsoi.pdf**: Final project report  
+- **final_project_starter_cap4630.m**: MATLAB codes for Procedures 1 to 10 of the project, modified from the start code provided by professor  
+- **final_project_final_solution_cap4630.m**: MATLAB codes for Procedures 11 to 15 of the project  
+- **readAndPreprocessImage.m**: MATLAB codes for function `readAndPreprocessImage()` provided by professor  
+- **imageLabelTestSetGroundTruth.csv**: Manual labels of Kaggle challenge test dataset. The first column is file name and the second column is label  
+- **sample cats vs dogs data.zip**: Sample training data provided by professor  
+
+----------------------------------------------------
 
 ### Instructions to Install and Run Code
 1. Put the .m files in this repository in the same folder and set this folder as current folder in MATLAB
@@ -17,8 +19,9 @@
 4. Put the full Kaggle training data (downloadable from https://www.kaggle.com/c/dogs-vs-cats/data) in folder './data/train' and full Kaggle test data in folder './data/test'. These are required to run both final_project_starter_cap4630.m and final_project_final_solution_cap4630.m
 5. Click Run in MATLAB and wait for completion
 
-### Notes
 ----------------------------------------------------
+
+### Notes
 1. The random generator is re-seeded several times throughout the code for consistency and reporting purposes.
 2. The code will save several intermediate output files for quicker report generation in sub-sequent runs. Please remove these files before you run the code as appropriate if you do not wish to re-use previous outputs:
 - model*.mat: CNN model files
