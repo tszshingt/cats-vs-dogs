@@ -29,4 +29,4 @@
    - model*.png: CNN model training plots
    - YPred*.mat: Predictions on validation data
    - ClassifierResult.mat: Predictions on test data
-   - imageLabelTestSetPred.csv: Labels on test data with file names for manual labelling (only if imageLabelTestSetGroundTruth.csv is not supplied)
+   - imageLabelTestSetPred.csv: Labels on test data with file names for manual labelling (only if imageLabelTestSetGroundTruth.csv is not used)
