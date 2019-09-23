@@ -10,7 +10,7 @@
 - **imageLabelTestSetGroundTruth.csv**: Manual labels of Kaggle challenge test dataset. The first column is file name and the second column is label  
 - **sample cats vs dogs data.zip**: Sample training data provided by professor  
 
-----------------------------------------------------
+---
 
 ### Instructions to Install and Run Code
 1. Put the .m files in this repository in the same folder and set this folder as current folder in MATLAB
@@ -19,7 +19,7 @@
 4. Put the full Kaggle training data (downloadable from https://www.kaggle.com/c/dogs-vs-cats/data) in folder './data/train' and full Kaggle test data in folder './data/test'. These are required to run both final_project_starter_cap4630.m and final_project_final_solution_cap4630.m
 5. Click Run in MATLAB and wait for completion
 
-----------------------------------------------------
+---
 
 ### Notes
 1. The random generator is re-seeded several times throughout the code for consistency and reporting purposes.
